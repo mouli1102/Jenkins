@@ -1,1 +1,3 @@
 print "Welcome to jenkins"
+
+print "Hi to jenkins"
